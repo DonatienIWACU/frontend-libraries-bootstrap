@@ -1,2 +1,2 @@
 # frontend-libraries-bootstrap
-A hands-on jQuery playground for practicing element selection, manipulation, and animations using .addClass(), .css(), .html(), .remove(), and more.
+This is my first project in the Front End Development Libraries section. I used Bootstrap to create a responsive layout and styled buttons, and jQuery to assign unique IDs and manipulate DOM elements.
